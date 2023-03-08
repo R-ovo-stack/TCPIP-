@@ -1,0 +1,3 @@
+gcc hello_server.c -o hserver
+    编译hello_server.c文件并生成可执行文件hservero
+
